@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/professional-services is built on the following main stack:
+
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
@@ -72,11 +73,13 @@ mollypi/professional-services is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/professional-services is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/694/Cloud_Storage.png' alt='Google Cloud Storage'/> [Google Cloud Storage](https://cloud.google.com/products/cloud-storage/) – Cloud Storage
@@ -147,14 +150,15 @@ mollypi/professional-services is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/professional-services](https://github.com/mollypi/professional-services)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|153<br/>Tools used|11/15/23 <br/>Report generated|
+|154<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -813,7 +817,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (77)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (78)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
 
@@ -875,35 +879,36 @@ Full tech stack [here](/techstack.md)
 |[zone.js](https://www.npmjs.com/zone.js)|v0.8.29|10/03/19|kardiff18 |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[apache-airflow](https://pypi.org/apache-airflow)|v1.10.3|01/09/20|Tim Sell |Apache-2.0|[CVE-2023-25754](https://github.com/advisories/GHSA-jchm-fm4q-c2fp) (Critical)<br/>[CVE-2020-11982](https://github.com/advisories/GHSA-9g2w-5f3v-mfmm) (Critical)<br/>[CVE-2020-11981](https://github.com/advisories/GHSA-976r-qfjj-c24w) (Critical)<br/>[CVE-2023-22884](https://github.com/advisories/GHSA-c732-xvv8-g94c) (Critical)<br/>[CVE-2020-13927](https://github.com/advisories/GHSA-hhx9-p69v-cx2j) (Critical)<br/>[CVE-2022-38649](https://github.com/advisories/GHSA-7wqf-h36w-47mc) (Critical)<br/>[CVE-2022-40189](https://github.com/advisories/GHSA-rmf2-pwfq-h75j) (Critical)<br/>[CVE-2022-41672](https://github.com/advisories/GHSA-3q8r-f3pj-3gc4) (High)<br/>[CVE-2020-11978](https://github.com/advisories/GHSA-rvmq-4x66-q7j3) (High)<br/>[CVE-2022-40127](https://github.com/advisories/GHSA-6pw3-8h9w-32gc) (High)<br/>[CVE-2022-24288](https://github.com/advisories/GHSA-3v7g-4pg3-7r6j) (High)<br/>[CVE-2022-27949](https://github.com/advisories/GHSA-fvw2-2pf7-77vw) (High)<br/>[CVE-2020-17526](https://github.com/advisories/GHSA-7mx5-x372-xh87) (High)<br/>[CVE-2022-41131](https://github.com/advisories/GHSA-cm43-f2pv-6v68) (High)<br/>[CVE-2023-37379](https://github.com/advisories/GHSA-x2mh-8fmc-rqgh) (High)<br/>[CVE-2023-40273](https://github.com/advisories/GHSA-pm87-24wq-r8w9) (High)<br/>[CVE-2023-39508](https://github.com/advisories/GHSA-269x-pg5c-5xgm) (High)<br/>[CVE-2023-46215](https://github.com/advisories/GHSA-666g-rfc5-c9jv) (High)<br/>[CVE-2020-17515](https://github.com/advisories/GHSA-86vp-x3pr-79rx) (Moderate)<br/>[CVE-2020-13944](https://github.com/advisories/GHSA-4pwq-fj89-6rjc) (Moderate)<br/>[CVE-2023-40611](https://github.com/advisories/GHSA-wpg8-mf6h-gm92) (Moderate)<br/>[CVE-2023-25695](https://github.com/advisories/GHSA-h6g5-wqqr-3mw3) (Moderate)<br/>[CVE-2023-42663](https://github.com/advisories/GHSA-32wr-qqw6-5mfp) (Moderate)<br/>[CVE-2023-39441](https://github.com/advisories/GHSA-5f35-pq34-c87q) (Moderate)<br/>[CVE-2022-38170](https://github.com/advisories/GHSA-q8h9-pqcx-59hw) (Moderate)<br/>[CVE-2019-12398](https://github.com/advisories/GHSA-rjvg-q57v-mjjc) (Moderate)<br/>[CVE-2019-12417](https://github.com/advisories/GHSA-q3p4-gw7r-wqjc) (Moderate)<br/>[CVE-2021-35936](https://github.com/advisories/GHSA-m6h2-jx9v-58w6) (Moderate)<br/>[CVE-2023-29247](https://github.com/advisories/GHSA-vcf6-3wv2-5vcr) (Moderate)<br/>[CVE-2022-45402](https://github.com/advisories/GHSA-rg94-84xj-7gq3) (Moderate)<br/>[CVE-2023-42781](https://github.com/advisories/GHSA-r7x6-xfcm-3mxv) (Moderate)<br/>[CVE-2022-43982](https://github.com/advisories/GHSA-h63r-9xxf-f2c7) (Moderate)<br/>[CVE-2023-42780](https://github.com/advisories/GHSA-cgx2-rrmr-jx43) (Moderate)<br/>[CVE-2022-40954](https://github.com/advisories/GHSA-45r6-j3cc-6mxx) (Moderate)<br/>[CVE-2020-17513](https://github.com/advisories/GHSA-6r3p-fcvm-xh7c) (Moderate)<br/>[CVE-2020-17511](https://github.com/advisories/GHSA-cvcq-gmc3-q6m8) (Moderate)<br/>[CVE-2021-28359](https://github.com/advisories/GHSA-3xxv-p78r-4fc6) (Moderate)<br/>[CVE-2023-36543](https://github.com/advisories/GHSA-3h4m-m55v-gx4m) (Moderate)<br/>[CVE-2023-22887](https://github.com/advisories/GHSA-ggwr-4vr8-g7wv) (Moderate)<br/>[CVE-2023-35908](https://github.com/advisories/GHSA-2h84-3crq-vgfj) (Moderate)<br/>[CVE-2022-46651](https://github.com/advisories/GHSA-xvw9-3mhm-xjqq) (Moderate)<br/>[CVE-2020-9485](https://github.com/advisories/GHSA-j38c-25fj-mr84) (Moderate)<br/>[CVE-2023-40712](https://github.com/advisories/GHSA-mjqh-v5f2-g2mw) (Moderate)<br/>[CVE-2020-11983](https://github.com/advisories/GHSA-q4p3-qw5c-mhpc) (Moderate)<br/>[CVE-2023-42792](https://github.com/advisories/GHSA-j3w8-2p2h-mrr9) (Moderate)<br/>[CVE-2023-22888](https://github.com/advisories/GHSA-5946-8p38-vffp) (Moderate)<br/>[CVE-2023-47037](https://github.com/advisories/GHSA-hm9r-7f84-25c9) (Moderate)<br/>[CVE-2021-45229](https://github.com/advisories/GHSA-65xw-pcqw-hjrh) (Moderate)<br/>[CVE-2021-45230](https://github.com/advisories/GHSA-4jh2-3c85-q67h) (Moderate)<br/>[CVE-2022-43985](https://github.com/advisories/GHSA-f9fq-78ch-4wmj) (Moderate)|
-|[autopep8](https://pypi.org/autopep8)|v1.5|03/24/20|Yunus Durmus |MIT|N/A|
-|[fire](https://pypi.org/fire)|v0.1.3|07/26/19|Carlos Ezequiel |Apache-2.0|N/A|
-|[google-api-python-client](https://pypi.org/google-api-python-client)|v1.7.7|05/13/18|Omer Habas |Apache-2.0|N/A|
-|[google-auth](https://pypi.org/google-auth)|v1.6.2|03/24/20|Yunus Durmus |Apache-2.0|N/A|
-|[google-auth-oauthlib](https://pypi.org/google-auth-oauthlib)|v0.4.1|03/24/20|Yunus Durmus |Apache-2.0|N/A|
-|[google-cloud-bigquery](https://pypi.org/google-cloud-bigquery)|v1.9.0|03/12/20|bmenasha |Apache-2.0|N/A|
-|[google-cloud-core](https://pypi.org/google-cloud-core)|v0.29.1|09/02/20|Olivier Cervello |Apache-2.0|N/A|
-|[google-cloud-datastore](https://pypi.org/google-cloud-datastore)|N/A|05/19/17|bmenasha |Apache-2.0|N/A|
-|[mock](https://pypi.org/mock)|v2.0.0|05/16/18|Omer Habas |BSD-2-Clause|N/A|
-|[netaddr](https://pypi.org/netaddr)|N/A|04/18/21|Andras Gyömrey |BSD-3-Clause|N/A|
-|[nose](https://pypi.org/nose)|v1.3.7|07/26/19|Carlos Ezequiel |LGPL-2.1+|N/A|
-|[oauth2](https://pypi.org/oauth2)|N/A|11/23/19|Tommaso Paba |MIT|N/A|
-|[oauth2client](https://pypi.org/oauth2client)|v4.1.3|05/19/17|bmenasha |Apache-2.0|N/A|
-|[python-dateutil](https://pypi.org/python-dateutil)|v2.7.5|04/23/21|Olivier Cervello |NRL|N/A|
-|[python-json-logger](https://pypi.org/python-json-logger)|v0.1.11|03/30/21|Taneli Leppä |BSD-2-Clause|N/A|
-|[pytz](https://pypi.org/pytz)|v2018.7|05/16/18|Omer Habas |MIT|N/A|
-|[requests](https://pypi.org/requests)|v2.21.0|03/22/19|mwallman |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
-|[requests-futures](https://pypi.org/requests-futures)|v1.0.0|03/12/20|bmenasha |Apache-2.0|N/A|
-|[retrying](https://pypi.org/retrying)|v1.3.3|11/23/19|Tommaso Paba |Apache-2.0|N/A|
-|[testfixtures](https://pypi.org/testfixtures)|v6.10.0|07/26/19|Carlos Ezequiel |MIT|N/A|
-|[yapf](https://pypi.org/yapf)|v0.29.0|03/24/20|Yunus Durmus |Apache-2.0|N/A|
-|[zipp](https://pypi.org/zipp)|v3.4.1|06/21/21|Raghu Kyatham |MIT|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|v3.13|06/18/21|Karim Elatov |MIT|[CVE-2020-14343](https://github.com/advisories/GHSA-8q59-q68h-6hv4) (Critical)|
+|[apache-airflow](https://pypi.org/project/apache-airflow)|v1.10.3|01/09/20|Tim Sell |Apache-2.0|[CVE-2023-22884](https://github.com/advisories/GHSA-c732-xvv8-g94c) (Critical)<br/>[CVE-2020-11982](https://github.com/advisories/GHSA-9g2w-5f3v-mfmm) (Critical)<br/>[CVE-2020-13927](https://github.com/advisories/GHSA-hhx9-p69v-cx2j) (Critical)<br/>[CVE-2020-11981](https://github.com/advisories/GHSA-976r-qfjj-c24w) (Critical)<br/>[CVE-2023-25754](https://github.com/advisories/GHSA-jchm-fm4q-c2fp) (Critical)<br/>[CVE-2022-40189](https://github.com/advisories/GHSA-rmf2-pwfq-h75j) (Critical)<br/>[CVE-2022-38649](https://github.com/advisories/GHSA-7wqf-h36w-47mc) (Critical)<br/>[CVE-2023-39508](https://github.com/advisories/GHSA-269x-pg5c-5xgm) (High)<br/>[CVE-2022-41131](https://github.com/advisories/GHSA-cm43-f2pv-6v68) (High)<br/>[CVE-2023-46215](https://github.com/advisories/GHSA-666g-rfc5-c9jv) (High)<br/>[CVE-2022-41672](https://github.com/advisories/GHSA-3q8r-f3pj-3gc4) (High)<br/>[CVE-2022-24288](https://github.com/advisories/GHSA-3v7g-4pg3-7r6j) (High)<br/>[CVE-2023-40273](https://github.com/advisories/GHSA-pm87-24wq-r8w9) (High)<br/>[CVE-2022-27949](https://github.com/advisories/GHSA-fvw2-2pf7-77vw) (High)<br/>[CVE-2020-11978](https://github.com/advisories/GHSA-rvmq-4x66-q7j3) (High)<br/>[CVE-2020-17526](https://github.com/advisories/GHSA-7mx5-x372-xh87) (High)<br/>[CVE-2022-40127](https://github.com/advisories/GHSA-6pw3-8h9w-32gc) (High)<br/>[CVE-2023-37379](https://github.com/advisories/GHSA-x2mh-8fmc-rqgh) (High)<br/>[CVE-2020-17511](https://github.com/advisories/GHSA-cvcq-gmc3-q6m8) (Moderate)<br/>[CVE-2021-28359](https://github.com/advisories/GHSA-3xxv-p78r-4fc6) (Moderate)<br/>[CVE-2023-36543](https://github.com/advisories/GHSA-3h4m-m55v-gx4m) (Moderate)<br/>[CVE-2023-22887](https://github.com/advisories/GHSA-ggwr-4vr8-g7wv) (Moderate)<br/>[CVE-2023-35908](https://github.com/advisories/GHSA-2h84-3crq-vgfj) (Moderate)<br/>[CVE-2022-46651](https://github.com/advisories/GHSA-xvw9-3mhm-xjqq) (Moderate)<br/>[CVE-2023-40712](https://github.com/advisories/GHSA-mjqh-v5f2-g2mw) (Moderate)<br/>[CVE-2023-22888](https://github.com/advisories/GHSA-5946-8p38-vffp) (Moderate)<br/>[CVE-2023-47037](https://github.com/advisories/GHSA-hm9r-7f84-25c9) (Moderate)<br/>[CVE-2023-40611](https://github.com/advisories/GHSA-wpg8-mf6h-gm92) (Moderate)<br/>[CVE-2023-42781](https://github.com/advisories/GHSA-r7x6-xfcm-3mxv) (Moderate)<br/>[CVE-2022-40954](https://github.com/advisories/GHSA-45r6-j3cc-6mxx) (Moderate)<br/>[CVE-2023-50783](https://github.com/advisories/GHSA-5938-79hg-xh3q) (Moderate)<br/>[CVE-2023-48291](https://github.com/advisories/GHSA-8f57-wcmg-4jmh) (Moderate)<br/>[CVE-2023-42780](https://github.com/advisories/GHSA-cgx2-rrmr-jx43) (Moderate)<br/>[CVE-2020-9485](https://github.com/advisories/GHSA-j38c-25fj-mr84) (Moderate)<br/>[CVE-2022-43982](https://github.com/advisories/GHSA-h63r-9xxf-f2c7) (Moderate)<br/>[CVE-2022-43985](https://github.com/advisories/GHSA-f9fq-78ch-4wmj) (Moderate)<br/>[CVE-2021-45230](https://github.com/advisories/GHSA-4jh2-3c85-q67h) (Moderate)<br/>[CVE-2020-11983](https://github.com/advisories/GHSA-q4p3-qw5c-mhpc) (Moderate)<br/>[CVE-2023-42792](https://github.com/advisories/GHSA-j3w8-2p2h-mrr9) (Moderate)<br/>[CVE-2021-45229](https://github.com/advisories/GHSA-65xw-pcqw-hjrh) (Moderate)<br/>[CVE-2020-17515](https://github.com/advisories/GHSA-86vp-x3pr-79rx) (Moderate)<br/>[CVE-2020-13944](https://github.com/advisories/GHSA-4pwq-fj89-6rjc) (Moderate)<br/>[CVE-2023-25695](https://github.com/advisories/GHSA-h6g5-wqqr-3mw3) (Moderate)<br/>[CVE-2023-42663](https://github.com/advisories/GHSA-32wr-qqw6-5mfp) (Moderate)<br/>[CVE-2023-39441](https://github.com/advisories/GHSA-5f35-pq34-c87q) (Moderate)<br/>[CVE-2022-38170](https://github.com/advisories/GHSA-q8h9-pqcx-59hw) (Moderate)<br/>[CVE-2019-12398](https://github.com/advisories/GHSA-rjvg-q57v-mjjc) (Moderate)<br/>[CVE-2019-12417](https://github.com/advisories/GHSA-q3p4-gw7r-wqjc) (Moderate)<br/>[CVE-2021-35936](https://github.com/advisories/GHSA-m6h2-jx9v-58w6) (Moderate)<br/>[CVE-2023-29247](https://github.com/advisories/GHSA-vcf6-3wv2-5vcr) (Moderate)<br/>[CVE-2022-45402](https://github.com/advisories/GHSA-rg94-84xj-7gq3) (Moderate)<br/>[CVE-2020-17513](https://github.com/advisories/GHSA-6r3p-fcvm-xh7c) (Moderate)|
+|[autopep8](https://pypi.org/project/autopep8)|v1.5|03/24/20|Yunus Durmus |MIT|N/A|
+|[fire](https://pypi.org/project/fire)|v0.1.3|07/26/19|Carlos Ezequiel |Apache-2.0|N/A|
+|[google-api-python-client](https://pypi.org/project/google-api-python-client)|v1.7.7|05/13/18|Omer Habas |Apache-2.0|N/A|
+|[google-auth](https://pypi.org/project/google-auth)|v1.6.2|03/24/20|Yunus Durmus |Apache-2.0|N/A|
+|[google-auth-oauthlib](https://pypi.org/project/google-auth-oauthlib)|v0.4.1|03/24/20|Yunus Durmus |Apache-2.0|N/A|
+|[google-cloud-bigquery](https://pypi.org/project/google-cloud-bigquery)|v1.9.0|03/12/20|bmenasha |Apache-2.0|N/A|
+|[google-cloud-core](https://pypi.org/project/google-cloud-core)|v0.29.1|09/02/20|Olivier Cervello |Apache-2.0|N/A|
+|[google-cloud-datastore](https://pypi.org/project/google-cloud-datastore)|N/A|05/19/17|bmenasha |Apache-2.0|N/A|
+|[mock](https://pypi.org/project/mock)|v2.0.0|05/16/18|Omer Habas |BSD-2-Clause|N/A|
+|[netaddr](https://pypi.org/project/netaddr)|N/A|04/18/21|Andras Gyömrey |BSD-3-Clause|N/A|
+|[nose](https://pypi.org/project/nose)|v1.3.7|07/26/19|Carlos Ezequiel |LGPL-2.1+|N/A|
+|[oauth2](https://pypi.org/project/oauth2)|N/A|11/23/19|Tommaso Paba |MIT|N/A|
+|[oauth2client](https://pypi.org/project/oauth2client)|v4.1.3|05/19/17|bmenasha |Apache-2.0|N/A|
+|[python-dateutil](https://pypi.org/project/python-dateutil)|v2.7.5|04/23/21|Olivier Cervello |NRL|N/A|
+|[python-json-logger](https://pypi.org/project/python-json-logger)|v0.1.11|03/30/21|Taneli Leppä |BSD-2-Clause|N/A|
+|[pytz](https://pypi.org/project/pytz)|v2018.7|05/16/18|Omer Habas |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|v2.21.0|03/22/19|mwallman |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[requests-futures](https://pypi.org/project/requests-futures)|v1.0.0|03/12/20|bmenasha |Apache-2.0|N/A|
+|[retrying](https://pypi.org/project/retrying)|v1.3.3|11/23/19|Tommaso Paba |Apache-2.0|N/A|
+|[testfixtures](https://pypi.org/project/testfixtures)|v6.10.0|07/26/19|Carlos Ezequiel |MIT|N/A|
+|[yapf](https://pypi.org/project/yapf)|v0.29.0|03/24/20|Yunus Durmus |Apache-2.0|N/A|
+|[zipp](https://pypi.org/project/zipp)|v3.4.1|06/21/21|Raghu Kyatham |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
